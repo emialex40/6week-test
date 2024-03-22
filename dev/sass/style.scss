@@ -1,0 +1,15 @@
+@import "_mixins/settings";
+@import "_mixins/mixins";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+/* default styles */
+@import "_default/default";
+/* humburger styles */
+@import "_default/hamburger";
+/* all styles */
+@import "_default/header";
+
+/* pages */
+@import "_includes/front_page";
+
+@import "_default/footer";
